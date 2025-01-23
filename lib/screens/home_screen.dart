@@ -121,7 +121,7 @@ FocusNode _focusNode1 =FocusNode();
                   },
                 ),
                 const SizedBox(
-                  height: 5,
+                  height: 6,
                 ),
                 TextField(
                   focusNode: _focusNode2,
