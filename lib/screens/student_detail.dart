@@ -53,7 +53,7 @@ class StudentDetails extends StatelessWidget {
                 ),
                 child: const Text(
                   'Close',
-                  style: TextStyle(color: Colors.white, fontSize: 20),
+                  style: TextStyle(color: Colors.white, fontSize: 21),
                 ),
               ),
               const SizedBox(
