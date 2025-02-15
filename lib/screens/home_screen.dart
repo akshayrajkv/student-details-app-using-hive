@@ -188,7 +188,7 @@ FocusNode _focusNode1 =FocusNode();
         return AlertDialog(
           title: Text('Edit details'),
           content: Container(
-            height: 200,
+            height: 201,
             child: Column(
               children: [
                 TextField(
