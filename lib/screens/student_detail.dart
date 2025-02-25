@@ -17,7 +17,7 @@ class StudentDetails extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           'Students Details',
-          style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold),
         ),
       ),
       body: Column(
